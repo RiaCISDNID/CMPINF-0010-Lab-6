@@ -44,9 +44,9 @@ code of conduct based on: Contributor Covenant Code of Conduct
 
 Contributors names and contact info
 
-Eyasped Challa
+- Eyasped Challa
 
-Ria Chadha
+- Ria Chadha
 
 ## License
 
