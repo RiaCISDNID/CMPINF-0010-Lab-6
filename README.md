@@ -1,7 +1,6 @@
 # Read me 
 
 
-
 # Lab-6
 
 This project helps to give a greeting for anyone with a name and age provided as an input.
@@ -38,6 +37,9 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+## code of conduct 
+code of conduct based on: Contributor Covenant Code of Conduct
+
 ## Authors
 
 Contributors names and contact info
@@ -48,8 +50,7 @@ Ria Chadha
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU Genral Public License V3.0 - see the LICENSE.md file for details
 
-- https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 
 
